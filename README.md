@@ -1,2 +1,9 @@
 # PowerPlatform-PowerApps-SchoolTimetable
- Power Apps で実装した授業時間割アプリ
+
+---
+
+Power Apps で実装した授業時間割アプリ
+
+---
+
+Copyright (c) 2022 YA-androidapp(https://github.com/YA-androidapp) All rights reserved.
